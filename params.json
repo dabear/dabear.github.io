@@ -1,6 +1,6 @@
 {
   "name": "code.bjorninge.no",
   "tagline": "A website for hosting different pages and download links to compiled versions of my github projects",
-  "body": "### Welcome to GitHub Pages.\r\n\r\n##Floating glucose\r\n\r\nA windows app to display current glucose values.\r\n\r\nFind the latest release here: https://github.com/dabear/FloatingGlucose/releases/latest\r\n",
+  "body": "### Welcome to GitHub Pages.\r\n\r\n##Floating glucose\r\n![floating glucose image](https://s31.postimg.org/w1hkfed3f/floating_glucose_small.png)\r\nA windows app to display current glucose values.\r\n\r\nFind the latest release here: https://github.com/dabear/FloatingGlucose/releases/latest\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
